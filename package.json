@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/sophieatgithub/portfolioWebsite#readme",
   "dependencies": {
-    "mdb-ui-kit": "^1.0.0-alpha2"
   }
 }
